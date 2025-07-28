@@ -12,7 +12,7 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 ---
 
 ### 🤝 Let's connect and grow together:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://linkedin.com/in/raj-singh-doddamani-0621ab316))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajsinghdoddamani)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/raj_mj_148
 )
 
